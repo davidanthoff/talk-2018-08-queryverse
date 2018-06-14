@@ -1,0 +1,8 @@
+*.csv
+*.feather
+*.png
+*.pdf
+*.eps
+*.svg
+*.vegalite
+.ipynb_checkpoints
